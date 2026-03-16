@@ -1,2 +1,3 @@
-# ADDtHERAl-
-Quaver Plugin. A plugin to make tasks more entertaining, ScrollVelocities, HitObjects, Bookmarks, all that stuff.
+#### ADDtHERAl!!
+Though has some utilities ready, is incomplete right now. Copy&Paste, ClearClutter, a Measure.
+Mainly just to share progress, though wanted to over some things as am too lazy to seperate them to release them.
